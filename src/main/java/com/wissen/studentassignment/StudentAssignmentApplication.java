@@ -8,7 +8,7 @@ public class StudentAssignmentApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(StudentAssignmentApplication.class, args);
-		System.out.println("Runnin spring boot app from Jenkins");
+		System.out.println("Runnin spring boot app from Jenkins. Testing github webhook");
 	}
 
 }
